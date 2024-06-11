@@ -13,3 +13,4 @@ Plugins-->
 roles--> to give each user a specifiec tasks to do ony 
 https://plugins.jenkins.io/   to connect any instance to the jenkins server
 
+keep looking on the DevOps tools and move on with Pipline scripts for Automation
