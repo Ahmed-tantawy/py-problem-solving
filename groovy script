@@ -1,0 +1,3 @@
+GET PARAMS
+// this is how the job parameter is accessed in the groovy script
+https://wiki.jenkins.io/display/JENKINS/Parameterized+System+Groovy+script
