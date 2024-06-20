@@ -1,5 +1,6 @@
 # Jenkins-Essentials
 source of learning: https://youtu.be/bY1tZ7Ehdqc?feature=shared
+source for Essinal Scripts: https://ss64.com/
 
 1- Configure System 
 labes,message,number of excuters
