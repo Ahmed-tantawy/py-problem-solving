@@ -7,7 +7,8 @@ def main():
 
 
 
+
 def say (phrase ):
      print (phrase + "" + emoticon)
-
+#callin the main Function
 main()
