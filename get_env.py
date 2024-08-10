@@ -1,1 +1,4 @@
-ge
+import os
+
+
+print(os.environ['PATH'])
