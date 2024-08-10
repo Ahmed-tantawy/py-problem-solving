@@ -16,6 +16,7 @@ else:
     print("Grade: F")
 
 
+
 result = sum(range(10000000))
 
 end_time = time.time()
