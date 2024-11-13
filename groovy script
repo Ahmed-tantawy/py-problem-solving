@@ -1,0 +1,5 @@
+GET PARAMS
+// this is how the job parameter is accessed in the groovy script
+https://wiki.jenkins.io/display/JENKINS/Parameterized+System+Groovy+script
+Batch files working with 2 files
+https://stackoverflow.com/questions/671642/how-can-i-compare-two-files-in-a-batch-file
